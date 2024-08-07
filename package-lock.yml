@@ -3,4 +3,6 @@ packages:
     version: 1.2.0
   - package: dbt-labs/codegen
     version: 0.12.1
-sha1_hash: 37aba29ba147b9afff74716d974b60c54b7f1a1d
+  - package: dbt-labs/logging
+    version: 0.8.0
+sha1_hash: 18cee954784ab341ff9f9a36e5349f0b2b3c8907
